@@ -1,0 +1,35 @@
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.deps.json
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.runtimeconfig.json
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.dll
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.pdb
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Entities.dll
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Entities.pdb
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.sourcelink.json
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\Emergenc.013091AF.Up2Date
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.dll
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\refint\EmergencySupport.Data.dll
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.pdb
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\Course files\APWN\Lab Tasks\EmergencySupportSystem\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\ref\EmergencySupport.Data.dll
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.deps.json
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.runtimeconfig.json
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.dll
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Data.pdb
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Entities.dll
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\bin\Debug\net8.0\EmergencySupport.Entities.pdb
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.AssemblyInfo.cs
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\Emergenc.013091AF.Up2Date
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.dll
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\refint\EmergencySupport.Data.dll
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.pdb
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\EmergencySupport.Data.genruntimeconfig.cache
+C:\Users\HP\Desktop\Merged Project\EmergencySupport.Web\EmergencySupport.Data\obj\Debug\net8.0\ref\EmergencySupport.Data.dll
